@@ -1,0 +1,19 @@
+.App{
+    padding: 25px;
+    display: flex;
+
+}
+.todo{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+.App>.todo{
+    margin: 15px;
+}
+label{
+    cursor: pointer;
+}
+li{
+    margin-top:10px;
+}
